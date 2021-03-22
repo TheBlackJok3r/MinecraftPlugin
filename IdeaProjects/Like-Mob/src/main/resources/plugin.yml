@@ -1,0 +1,4 @@
+name: Like Mob
+version: ${project.version}
+main: likemob.likemob.LikeMob
+api-version: 1.16
