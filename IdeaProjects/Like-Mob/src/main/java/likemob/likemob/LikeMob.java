@@ -63,7 +63,7 @@ public final class LikeMob extends JavaPlugin {
     public void Mobs() {
         int likes=getLikes();
         for(Player p : Bukkit.getOnlinePlayers()){
-            if(p.getName().equals("Nitashi"))
+            if(p.getName().equals("Player Nickname"))
             {
                 if(likes>likesSave)
                 {
